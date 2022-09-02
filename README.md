@@ -1,3 +1,6 @@
+##Cara Membuat Apk Malware
+<li><code>Malware adalah perangkat lunak yang dibuat dengan tujuan memasuki dan terkadang merusak sistem komputer, jaringan, atau server tanpa diketahui oleh pemiliknya. Istilah malware diambil dari gabungan potongan dua kata yaitu malicious “berniat jahat” dan software “perangkat lunak”. Tujuannya tentu untuk merusak atau mencuri data dari perangkat yang dimasuki.</code></li>
+<br/>
 <li><code>$ pkg update && pkg upgrade</code></li>
 <li><code>$ pkg install wget</code></li>
 <li><code>$ pkg install python</code></li>
