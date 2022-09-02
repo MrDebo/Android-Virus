@@ -1,5 +1,5 @@
 <li><code>$ pkg update && pkg upgrade</code></li>
-<li><code>$ pkg install pkg install wget</code></li>
+<li><code>$ pkg install wget</code></li>
 <li><code>$ pkg install python</code></li>
 <li><code>$ pkg install git</code></li>
 <li><code>$ git clone https://github.com/MrDebo/Android-Virus</code></li>
