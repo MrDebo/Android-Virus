@@ -11,6 +11,8 @@
 <li><code>$ cd Android-Virus</code></li>
 <li><code>$ ls (huruf L&S kecil)</code></li>
 <li><code>$ python virus_enc.py</code></li>
+<li><code>$ CTRL + z</code></li>
+<li><code>$ python virus_enc.py</code></li>
 <br/>
 <li><code>Cara memindahkan virus yang telah dibuat ke Penyimpanan Internal</code></li>
 <li><code>$ CTRL + z</code></li>
