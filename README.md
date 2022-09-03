@@ -18,7 +18,7 @@
 <li><code>$ CTRL + z</code></li>
 <li><code>$ cd debo</code></li>
 <li><code>$ ls (huruf L&S kecil)</code></li>
-<li><code>$ mv nama virus.apk/sdcard/Download</code></li>
+<li><code>$ mv nama virus.apk /sdcard/Download</code></li>
 <li><code>Kalo sudah silahkan cek dibagain folder Download anda</code></li>
 <br/>
 <img src="https://github.com/MrDebo/Android-Virus/blob/main/Screenshot_2022-09-02-23-26-18-371_com.termux.jpg" />
